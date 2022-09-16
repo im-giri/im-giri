@@ -12,6 +12,10 @@ I am a Certified Cloud (AWS, Azure) Developer <img src="https://media.giphy.com/
   <a href="https://www.linkedin.com/in/giri-dharan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" width="100px"/>
   </a>
-  <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=flat" alt="Gmail Badge" width="80px"/>
-  <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=flat" alt="Instagram Badge" width="115px"/>
+  <a href="mailto: giridharan0896@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white&style=flat" alt="Gmail Badge" width="80px"/>
+  </a>
+  <a href="https://www.instagram.com/giriii.i/">
+    <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=flat" alt="Instagram Badge" width="115px"/>
+  </a>
 </div>
