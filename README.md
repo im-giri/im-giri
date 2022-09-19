@@ -19,9 +19,6 @@ I am a Certified Cloud (AWS, Azure) Developer <img src="https://media.giphy.com/
     <img src="https://img.shields.io/badge/Instagram-pink?logo=instagram&logoColor=white&style=flat" alt="Instagram Badge" width="115px"/>
   </a>
 </div>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=im-giri&style=flat-square&color=blue" alt=""/>
-</div>
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
@@ -44,3 +41,5 @@ I am a Certified Cloud (AWS, Azure) Developer <img src="https://media.giphy.com/
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original-wordmark.svg" title="pytest" **alt="pytest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="VScode" **alt="VScode" width="40" height="40"/>
 </div>
+
+---
